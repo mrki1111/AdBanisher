@@ -1,6 +1,6 @@
 # AdBanisher
 
-Unmasking and banishing hidden ads from the digital realm, one website at a time. Join the fight and contribute to AdBanisher's mission.
+Unmasking and banishing those sneaky ads, one website at a time. Join the fight and contribute.
 
 `A browser extension that detects and blocks hidden ads on websites. This project is a beginner's attempt to learn JavaScript and create a useful tool for improving the browsing experience. The extension is built using JavaScript and the Chrome Extension API.`
 
