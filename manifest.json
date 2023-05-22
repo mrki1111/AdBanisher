@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Hidden Ads Blocker",
+  "name": "AdBanisher",
   "version": "1.0",
   "description": "A browser extension that blocks hidden ads on websites.",
   "permissions": [
@@ -24,6 +24,6 @@
   },
   "browser_action": {
     "default_icon": "icon48.png",
-    "default_title": "Hidden Ads Blocker"
+    "default_title": "AdBanisher"
   }
 }
